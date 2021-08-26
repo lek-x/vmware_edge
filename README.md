@@ -1,6 +1,6 @@
-#Disclaimer
+ # Disclaimer
 
-it is a test scrypt I made it for my self education.
+It is a test script I made it for my self education. I hope it will usefull for you.
 
 # NSX Edge setting export script
 
@@ -8,16 +8,17 @@ This scipt exports FireWall and Nat Rulles from VMware vDirector.
 
 ## Requirements
 
--Python 3.6
--requests
+- Python 3.6
+- requests
 - base64
--os
--sys
+- os
+- sys
 - time
--Admin access to vDirector
+- Admin access to VMware vDirector
 
 ```bash
 pip3 install requests
+pip3 intsal package
 ```
 
 ## Usage
